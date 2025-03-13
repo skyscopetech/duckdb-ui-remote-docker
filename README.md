@@ -8,7 +8,6 @@ A Docker container that provides remote access to the DuckDB UI through HAProxy 
 
 ## Security Considerations
 
-- The container runs as root, which may expose your system to security risks
 - DuckDB UI was designed for use on localhost, likely to prevent unauthorized access to your data
 - Running the container and accessing it over the public web may expose your data to unauthorized actors
 - The HAProxy configuration modifies request headers to bypass the DuckDB UI's localhost restriction, essentially bypassing the security measure

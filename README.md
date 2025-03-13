@@ -2,6 +2,10 @@
 
 A Docker container that provides secure remote access to the DuckDB UI through HAProxy with SSL termination.
 
+<!-- ./docs/demo.gif -->
+
+![DuckDB UI Demo](./docs/demo.gif)
+
 ## Security Considerations
 
 - The container runs as root, which may expose your system to security risks

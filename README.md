@@ -28,7 +28,7 @@ This project containerizes the DuckDB UI and makes it accessible via HTTPS using
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/duckdb-ui-remote.git
+   git clone https://github.com/skyscopetech/duckdb-ui-remote-docker.git
    cd duckdb-ui-remote
    ```
 

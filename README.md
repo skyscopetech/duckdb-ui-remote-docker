@@ -1,6 +1,6 @@
 # DuckDB UI Remote
 
-A Docker container that provides secure remote access to the DuckDB UI through HAProxy with SSL termination.
+A Docker container that provides remote access to the DuckDB UI through HAProxy with SSL termination.
 
 <!-- ./docs/demo.gif -->
 
